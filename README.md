@@ -37,3 +37,11 @@ This project analyzes trader performance and behavior under different market sen
 
 ## Conclusion
 Market sentiment (Fear vs Greed) has a significant impact on trader performance, trading frequency, position sizes, and long/short behavior. Traders can improve performance by adjusting their strategies based on market sentiment.
+
+
+## Dataset
+The historical trading dataset is large and cannot be uploaded to GitHub due to file size limits.
+
+You can place the dataset file in the project folder before running the notebook:
+- historical_data.csv
+- fear_greed_index.csv
