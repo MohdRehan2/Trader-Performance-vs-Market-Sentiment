@@ -1,8 +1,6 @@
 
 # Trader Performance vs Market Sentiment Analysis
 
-# Trader Performance vs Market Sentiment Analysis
-
 ## Project Objective
 This project analyzes trader performance and behavior under different market sentiment conditions (Fear vs Greed). The goal is to understand how market sentiment affects profitability, trading behavior, and trader performance.
 
